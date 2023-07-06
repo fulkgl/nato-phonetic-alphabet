@@ -1,0 +1,25 @@
+
+1. log into github, press "new" repo
+2. "Create a new repository" https://github.com/new
+	3.1 owner= fulkgl
+	3.2 repo name= nato-phonetic-alphabet
+	3.3 description= 26 letters of the alphabet as clear code words
+	3.4 public
+	3.5 add readme
+	3.6 add .gitignore python
+	3.7 license: mit
+	3.8 button create repo
+3. cd \github.com\fulkgl
+4. git clone https://github.com/fulkgl/nato-phonetic-alphabet.git
+5. cd nato-phonetic-alphabet
+6. attrib -h .git
+7. mkdir templates static/css static/js static/images static/sounds
+8. python -m venv .venv
+
+9. copy images files from dell to static\images
+10. create templates/index.html
+
+9. copy files to DELL dir
+10. create ./index.html
+
+
